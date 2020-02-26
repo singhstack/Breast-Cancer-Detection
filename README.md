@@ -4,6 +4,6 @@ This project uses demonstrates detecting Invasive Ductal Carcinoma, sometimes ca
 
 We’ll use the IDC_regular dataset (the breast cancer histology image dataset). Histology is the study of micrsocopic study of tissues.
 
-My current Cancernt gives a validation score of 83%. I am currently testing different models and will update the results soon.
+My current Neural Network Model: Cancernet, gives a validation score of 83%. I am currently testing different models and will update the results soon.
 
 *This project is currently a work in progress.
